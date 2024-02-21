@@ -31,6 +31,9 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
 https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/8cf978b5-4e87-497e-9d26-ef67c05724b2
 
 
+https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/6e683e7b-2d76-4755-860d-4ba9f003b4c4
 
-https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/949348c4-3725-406a-b7e8-d3469a22bcf6
+
+https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/82482e95-de1e-4ef1-adc7-92a99d432faa
+
 
