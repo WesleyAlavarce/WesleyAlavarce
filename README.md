@@ -19,3 +19,14 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+## Projetos
+
+### Participei da criação do site para escola que eu estudei chamada "<b>Odilon Correâ</b>"
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://odiloncorrea.netlify.app)
+
+### Também participei da criação de um jogo Space Shooter para o TCC do meu curso 
+
+
+https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/8cf978b5-4e87-497e-9d26-ef67c05724b2
+
