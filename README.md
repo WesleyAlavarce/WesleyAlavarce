@@ -26,7 +26,7 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://odiloncorrea.netlify.app)
 
 ### Também participei da criação de alguns jogos utiliziando o GameMaker 2
-alguns desses projetos estão inacabados e toda a parte visual e arte foram pegados de graça pelo itch.io!
+alguns desses projetos estão inacabados e toda a parte visual e arte foram pegos de graça pelo itch.io!
 
 
 https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/8cf978b5-4e87-497e-9d26-ef67c05724b2
