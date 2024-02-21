@@ -25,8 +25,12 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
 ### Participei da criação do site para escola que eu estudei chamada "<b>Odilon Correâ</b>"
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://odiloncorrea.netlify.app)
 
-### Também participei da criação de um jogo <b>Space Shooter</b> para o TCC utiliziando o GameMaker 2
+### Também participei da criação de alguns jogos utiliziando o GameMaker 2
 
 
 https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/8cf978b5-4e87-497e-9d26-ef67c05724b2
+
+
+
+https://github.com/WesleyAlavarce/WesleyAlavarce/assets/160690321/949348c4-3725-406a-b7e8-d3469a22bcf6
 
