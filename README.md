@@ -23,7 +23,7 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
 ## Projetos
 
 
-### Participei da criação de alguns jogos utiliziando o GameMaker 2
+### Participei da criação de alguns jogos utiliziando o GameMaker Studio 2
 alguns desses projetos estão inacabados e toda a parte visual e arte foram pegos de graça pelo itch.io!
 
 
