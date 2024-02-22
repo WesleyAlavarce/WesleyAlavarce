@@ -22,10 +22,8 @@ Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI 
 
 ## Projetos
 
-### Participei da criação de um site para escola que eu estudei chamada "<b>Odilon Correâ</b>"
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://odiloncorrea.netlify.app)
 
-### Também participei da criação de alguns jogos utiliziando o GameMaker 2
+### Participei da criação de alguns jogos utiliziando o GameMaker 2
 alguns desses projetos estão inacabados e toda a parte visual e arte foram pegos de graça pelo itch.io!
 
 
