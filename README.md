@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o Wesley Oliveira ✌🏻
-Tenho 18 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI e cursei <b>💻 Téc. em Informática para Internet 💻</b> no Bayeux.<br>
+Tenho 19 anos, atualmente cursando <b>⚡Téc. Eletromecânica ⚙</b> no SENAI e cursei <b>💻 Téc. em Informática para Internet 💻</b> no Bayeux.<br>
 <b>🚀💻 Amante de tecnologia, Programador em constante aprendizado🎓📚</b>
 
 ## Redes Sociais
